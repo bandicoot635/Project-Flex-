@@ -1,0 +1,7 @@
+.component-body {
+    background-image: url('src/assets/img/rectangulos.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
